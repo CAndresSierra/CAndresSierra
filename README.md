@@ -18,8 +18,6 @@
   
 - 🌱 I’m currently learning cloud computing on coursera.
   
-- 👯 I’m looking to collaborate on Proyectos
-  
 - 💬 Ask me about Next.js, React, Typescript, JavaScript, Node.js
 
 ## 🛠️ My Skills
