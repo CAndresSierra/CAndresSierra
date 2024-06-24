@@ -20,6 +20,8 @@
   
 - 💬 Ask me about Next.js, React, Typescript, JavaScript, Node.js
 
+- 🧐 Oxford Online Placement Test (B2 Upper Intermediate)
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
