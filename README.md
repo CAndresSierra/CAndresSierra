@@ -20,7 +20,7 @@
   
 - 💬 Ask me about Next.js, React, Typescript, JavaScript, Node.js
 
-- 🧐 Oxford Online Placement Test (B2 Upper Intermediate)
+- 🧐 Ingles: Oxford Online Placement Test (B2 Upper Intermediate)
 
 ## 🛠️ My Skills
 
