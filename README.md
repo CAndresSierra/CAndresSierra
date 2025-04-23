@@ -15,9 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   
-- 🌱 I’m currently learning ASP.NET Core Web Apis.
+- 🌱 I’m currently learning Java development.
   
-- 💬 Ask me about Next.js, React, Typescript, JavaScript, Node.js
+- 💬 Ask me about Node.js, Typescript, Java
 
 - 🧐 Ingles: Oxford Online Placement Test (B2 Upper Intermediate)
 
